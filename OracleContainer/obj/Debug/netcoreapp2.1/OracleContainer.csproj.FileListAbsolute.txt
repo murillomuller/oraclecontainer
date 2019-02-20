@@ -1,0 +1,15 @@
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\bin\Debug\netcoreapp2.1\OracleContainer.deps.json
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\bin\Debug\netcoreapp2.1\OracleContainer.runtimeconfig.json
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\bin\Debug\netcoreapp2.1\OracleContainer.runtimeconfig.dev.json
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\bin\Debug\netcoreapp2.1\OracleContainer.dll
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\OracleContainer.csprojAssemblyReference.cache
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\OracleContainer.csproj.CoreCompileInputs.cache
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\OracleContainer.RazorAssemblyInfo.cache
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\OracleContainer.RazorAssemblyInfo.cs
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\OracleContainer.AssemblyInfoInputs.cache
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\OracleContainer.AssemblyInfo.cs
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\OracleContainer.RazorTargetAssemblyInfo.cache
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\bin\Debug\netcoreapp2.1\OracleContainer.pdb
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\OracleContainer.dll
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\OracleContainer.pdb
+D:\users\murillomuller\source\repos\OracleContainer\OracleContainer\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
