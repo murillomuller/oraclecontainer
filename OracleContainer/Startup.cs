@@ -32,7 +32,7 @@ namespace OracleContainer
                 // to connect, query, and return results to a web page
 
                 //Create a connection to Oracle			
-                string conString = "Data Source=(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = exa02-scan-cassi.cassi.com.br)(PORT = 1521))  (CONNECT_DATA =(SERVER = DEDICATED) (SERVICE_NAME = CORDSNBD001))); User ID=sgs;Password=sgs2018";
+                string conString = "Data Source=(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = 172.30.19.7)(PORT = 1521))  (CONNECT_DATA =(SERVER = DEDICATED) (SERVICE_NAME = CORDSNBD001))); User ID=sgs;Password=sgs2018";
 
                 //How to connect to an Oracle DB without SQL*Net configuration file
                 //  also known as tnsnames.ora.
