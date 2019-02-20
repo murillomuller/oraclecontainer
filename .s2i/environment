@@ -2,3 +2,4 @@ DOTNET_STARTUP_PROJECT=OracleContainer/OracleContainer.csproj
 DOTNET_SDK_VERSION=latest
 DOTNET_ASSEMBLY_NAME=OracleContainer
 ASPNETCORE_URLS=http://*:8080
+DOTNET_RESTORE_SOURCES=https://tfs.cassi.com.br/tfs/CASSICollection/_packaging/NugetCassi/nuget/v3/index.json
